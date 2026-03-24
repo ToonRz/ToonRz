@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 **Database:**  
 **Tools:**
 **AI:** 
+
+## 📫 Contact
+- Email: narawitch.m@gmail.com
