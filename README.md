@@ -16,7 +16,7 @@
 Python, Java, SQL, HTML, CSS, PHP, Kotlin, JavaScript  
 
 **Tools & Technologies:**  
-Visual Studio Code, Figma, PostgreSQL, XAMPP, Ubuntu, Wireshark, Android Studio, Postman, Windsurf  
+Visual Studio Code, Figma, XAMPP, Ubuntu, Wireshark, Android Studio, Postman, Windsurf  
 
 **Database:**  
 PostgreSQL, MySQL  
