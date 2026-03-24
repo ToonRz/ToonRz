@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 **Database:**  
 **Tools:**
 **AI:** 
-
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=ToonRz&show_icons=true)
