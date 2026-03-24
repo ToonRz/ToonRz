@@ -14,17 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 Computer Science Student  
-💡 Interested in Backend, AI, Software Development, DevOps Engineer, FullStack Developer  
+🎓 Computer Science Student @ Srinakharinwirot University 
+💡 Passionate about Backend Systems, AI, Software Development, DevOps Engineer, FullStack Developer  
 🚀 Currently learning: Network, Mobile Programming, Database, Software Engineering
 
 ## 💻 Tech Stack
 
-**Languages:**
-**Web:**  
-**Database:**  
-**Tools:**
-**AI:** 
+**Programming Languages:** Python, Java, SQL, HTML, CSS, PHP, Kotlin
+**Tools & Technologies:**  Visual Studio Code, Figma, PostgreSQL, XAMPP, Ubuntu, Wireshark, Android Studio,Postman,Windsurf
+**Database:**  PostgreSQL, MySQL
 
 ## 📫 Contact
 - Email: narawitch.m@gmail.com
