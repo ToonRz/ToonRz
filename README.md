@@ -13,7 +13,7 @@
 ## 💻 Tech Stack
 
 **Programming Languages:**  
-Python, Java, SQL, HTML, CSS, PHP, Kotlin  
+Python, Java, SQL, HTML, CSS, PHP, Kotlin, JavaScript  
 
 **Tools & Technologies:**  
 Visual Studio Code, Figma, PostgreSQL, XAMPP, Ubuntu, Wireshark, Android Studio, Postman, Windsurf  
