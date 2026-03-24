@@ -1,4 +1,4 @@
-## 👋Hi, I'm Narawitch
+## 👋 Hi, I'm Narawitch
 
 <!--
 **ToonRz/ToonRz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 Computer Science Student  
+💡 Interested in Backend, AI, Software Development, DevOps Engineer, FullStack Developer  
+🚀 Currently learning: Network, Mobile Programming, Database, Software Engineering
+
+## 💻 Tech Stack
+
+**Languages:**
+**Web:**  
+**Database:**  
+**Tools:**
+**AI:** 
+
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=ToonRz&show_icons=true)
