@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ## 💻 Tech Stack
 
 **Programming Languages:** Python, Java, SQL, HTML, CSS, PHP, Kotlin
-**Tools & Technologies:**  Visual Studio Code, Figma, PostgreSQL, XAMPP, Ubuntu, Wireshark, Android Studio,Postman,Windsurf
-**Database:**  PostgreSQL, MySQL
+**Tools & Technologies:** Visual Studio Code, Figma, PostgreSQL, XAMPP, Ubuntu, Wireshark, Android Studio,Postman,Windsurf
+**Database:** PostgreSQL, MySQL
 
 ## 📫 Contact
 - Email: narawitch.m@gmail.com
